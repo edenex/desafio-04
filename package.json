@@ -2,7 +2,6 @@
   "name": "desafio-04",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Edenir de Souza <edenex@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production",
