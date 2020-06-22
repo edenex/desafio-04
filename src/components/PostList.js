@@ -86,7 +86,7 @@ class PostList extends Component {
             },
             date: '07 Jun 2019',
             content:
-              'O curso é maravilhoso, não imaginava que seria tão bom pra minha carreira, quero ser desenvolver pra sair logo da área de suporte. Vale muito a pena'
+              'O curso é maravilhoso, não imaginava que seria tão bom para minha carreira, vale muito a pena!'
           }
         ]
       }
